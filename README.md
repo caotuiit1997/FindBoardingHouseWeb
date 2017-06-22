@@ -16,9 +16,14 @@ This is my website source code. This website intend to provide services for thos
     
  # languages, libaries and technologies to be used
  - PHP OOP
+ - Database : mySql
  - HTML
  - CSS
  - Javascript
  - Ajax
  - Boostrap
  - JQuery
+ # Tools
+ - Sublime text
+ - Git
+ - Xammp
